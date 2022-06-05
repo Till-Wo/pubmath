@@ -1,0 +1,20 @@
+/* CSS Document */
+
+body {
+ background-image: url("assets/fractal.jpg");
+ background-size: 1510px;
+ background-repeat: no-repeat;
+}
+
+div.para{
+	margin: 30px;
+	background-color: #ffffff;
+	opacity: 0.1
+}
+div.transbox p {
+	
+  color: #000000;
+  opacity: 1;
+  margin: 5%;
+  font-weight: bold;
+}
